@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi, I'm And! 👋
 
-<!--
-**andORibeiro/andORibeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About me:**
+- 💻 I'm a developer since 2018
+- ⚛️ JavaScript | NodeJS | React
+- 🚀 I'm a software engineer at Bradesco
+- ⚛️ Java | TypeScript | NodeJS | Angular
+- 📝 I'm graduated in Computer Engineering
+- 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/anderson-ribeiro-773618171/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**Languages and tools:**
+- Working on it
+
+
